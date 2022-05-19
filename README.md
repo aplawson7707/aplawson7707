@@ -5,17 +5,18 @@
 </h3>
 
 ```python
-class Aplawson7707():
+class WhoAmI():
     
   def __init__(self):
     self.name = "Alex Lawson";
     self.username = "aplawson7707";
-    self.location = "California";
+    self.location = "Bakersfield, CA";
   
   def __str__(self):
     return self.name
+
 if __name__ == '__main__':
-    me = Aplawson7707()
+    me = WhoAmI()
 ```
 
 <h3 align="center">
