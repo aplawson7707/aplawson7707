@@ -42,8 +42,6 @@ if __name__ == '__main__':
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&labelColor=282828">
         <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&labelColor=282828">
         <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&labelColor=282828">
-        <br>
-        <br>
     </div>
 </p>
 
