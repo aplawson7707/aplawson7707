@@ -1,23 +1,10 @@
-<h3 align="center">
-    <hr>
+<h1 align="center">
+    <!-- <hr> -->
     <b>APLAWSON7707</b>
-    <hr>
-</h3>
+    <!-- <hr> -->
+</h1>
 
-```python
-class WhoAmI():
-    
-  def __init__(self):
-    self.name = "Alex Lawson";
-    self.username = "aplawson7707";
-    self.location = "Bakersfield, CA";
-  
-  def __str__(self):
-    return self.name
 
-if __name__ == '__main__':
-    me = WhoAmI()
-```
 
 <h3 align="center">
     <hr>
